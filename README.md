@@ -1,4 +1,3 @@
-# MoviesRecSys
-RecommenderSystem_general
+#RecommenderSystem_General
 
 Examples, ideas, scripts on Recomender Systems
